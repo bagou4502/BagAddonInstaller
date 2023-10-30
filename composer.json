@@ -1,0 +1,22 @@
+{
+    "name": "bagou450/addon-installer",
+    "description": "A composer package that allow you to install all pterodactyl addons made by Bagou450",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Bagou450\\AddonInstaller\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romain Guillemot",
+            "email": "romain.guillemot@bagou450.com"
+        },
+        {
+            "name": "Bagou450",
+            "email": "contact@bagou450.com"
+        }
+    ],
+    "require": {}
+}
